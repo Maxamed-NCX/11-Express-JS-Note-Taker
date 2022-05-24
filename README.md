@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/UUID-orange"  />
   <img src="https://img.shields.io/badge/-Node-green" />
   <img src="https://img.shields.io/badge/-Heroku-grey" />
-
-
+</p>
+<p align="center">
     <img src="https://img.shields.io/github/languages/count/Mcnoor/Challenge-Module11-BC?style=for-the-badge" alt="Languages" /> 
     <img src="https://img.shields.io/github/languages/code-size/Mcnoor/Challenge-Module11-BC?style=for-the-badge" alt="Code Size" />
     <img src="https://img.shields.io/github/repo-size/Mcnoor/Challenge-Module11-BC?style=for-the-badge" alt="Repo Size" />  
