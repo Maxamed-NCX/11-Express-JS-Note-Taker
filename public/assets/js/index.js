@@ -50,6 +50,14 @@ const deleteNote = (id) =>
     },
   });
 
+
+  var deleteNote = function(id) {
+    return $.ajax({
+      url: "api/notes/" + id,
+      method: "DELETE"
+    });
+  };
+
 const renderActiveNote = () => {
   hide(saveNoteBtn);
 

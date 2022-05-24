@@ -56,11 +56,10 @@ app.delete('/api/notes/:id', (req,res ) => {
 const id =req.params.id
 const result = notes.filter(note => note.id !== id)
 console.log(result)
-fs.writeFile('./db/db.json', JSON.stringify(result), function(err) {
+fs.writeFileAsync('./db/db.json', JSON.stringify(result), function(err) {
   if (err) {
     return console.log(err);}} ) 
   console.log('delete method')
  res.json(result);
 } )
-
 

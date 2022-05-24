@@ -1,15 +1,1 @@
-[
-    [
-        {
-           "id": "1",
-            "title":"Test Note 1",
-            "text":"Test text 1"
-        },
-        {
-            "id": "2",
-             "title":"Test Note 2",
-             "text":"Test text 2"
-         }
-     ]
-
-]
+[[{"id":"1","title":"Test Note 1","text":"Test text 1"},{"id":"2","title":"Test Note 2","text":"Test text 2"}],{"title":"gfh","text":"gfhf","id":"d77af69b-afbf-43a1-b70b-e53c4d7db9f1"}]
