@@ -45,11 +45,11 @@ An application that can be used to write, save, and delete notes using Node JS a
 
 ## Visuals
 
-![screenshot 1](media/note-taker-1.png)
----
-![screenshot 1](media/note-taker-2.png)
----
-![screenshot 1](media/note-taker-3.png)
+<img width="400" alt=" Note1" src="[https://raw.githubusercontent.com/Mcnoor/Challenge-Module11-BC/main/Media/Screen%20Shot%202022-05-16%20at%207.23.33%20PM.png](https://raw.githubusercontent.com/Mcnoor/Challenge-Module11-BC-/main/Media/Note-taker-1.png)">
+
+<img width="400" alt=" Note2" src="[https://raw.githubusercontent.com/Mcnoor/Challenge-Module11-BC/main/Media/Screen%20Shot%202022-05-16%20at%207.24.09%20PM.png](https://raw.githubusercontent.com/Mcnoor/Challenge-Module11-BC-/main/Media/Note-taker-2.png)">
+
+<img width="400" alt=" Note3" src="[https://raw.githubusercontent.com/Mcnoor/Challenge-Module11-BC/main/Media/Screen%20Shot%202022-05-16%20at%208.21.05%20PM.png](https://raw.githubusercontent.com/Mcnoor/Challenge-Module11-BC-/main/Media/Note-taker-3.png)">
 
 
 
