@@ -22,8 +22,8 @@
   * [Description](#description)
   * [Visuals](#visuals)
   * [License](#license)
-  * [Contributing](#contribution)
-  * [Questions](#contact-information)
+  * [Contributing](#Contributing)
+  * [Questions](#Questions)
 
 
 
@@ -62,17 +62,8 @@ An application that can be used to write, save, and delete notes using Node JS a
 
 ## Contributing
 
-Not accepting contributions at this time
-
----
-
-## Contributing
-
 👥 MCX
 
-## Tests
-
-✏️ Yes
 
 ## Questions
 
