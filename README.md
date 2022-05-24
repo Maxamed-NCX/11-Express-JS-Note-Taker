@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/github/repo-size/Mcnoor/Challenge-Module11-BC?style=for-the-badge" alt="Repo Size" />  
     <img src="https://img.shields.io/tokei/lines/github/Mcnoor/Challenge-Module11-BC?style=for-the-badge" alt="Total Lines" />
     <img src="https://img.shields.io/github/package-json/dependency-version/Mcnoor/Challenge-Module11-BC/inquirer?style=for-the-badge" alt="Inquirer Version" />
+  </p>
 ---
 
 ## Table of Contents
