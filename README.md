@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/tokei/lines/github/Mcnoor/Challenge-Module11-BC?style=for-the-badge" alt="Total Lines" />
     <img src="https://img.shields.io/github/package-json/dependency-version/Mcnoor/Challenge-Module10-BC/inquirer?style=for-the-badge" alt="Inquirer Version" />
   </p>
----
+
 
 ## Table of Contents
   * [Description](#description)
@@ -25,13 +25,13 @@
   * [Contributing](#contribution)
   * [Questions](#contact-information)
 
----
+
 
 ## Description
 
 An application that can be used to write, save, and delete notes using Node JS and Express JS, utilizing JSON for data storage. With an already completed front-end, a back-end that connects to the front-end is needed to be created, as stated below:
 
----
+
 
 ## User Story
 
@@ -41,7 +41,7 @@ An application that can be used to write, save, and delete notes using Node JS a
 
     SO THAT I can organize and keep track of tasks I need to complete
 
----
+
 
 ## Visuals
 
@@ -51,7 +51,7 @@ An application that can be used to write, save, and delete notes using Node JS a
 ---
 ![screenshot 1](media/note-taker-3.png)
 
----
+
 
 ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -65,3 +65,21 @@ An application that can be used to write, save, and delete notes using Node JS a
 Not accepting contributions at this time
 
 ---
+
+## Contributing
+
+👥 MCX
+
+## Tests
+
+✏️ Yes
+
+## Questions
+
+❓❓❓ Contact me<br />
+<br />
+:octocat: Find me on GitHub: [mcnoor](https://github.com/Mcnoor/Challenge-Module11-BC)<br />
+<br />
+✉️ Email me with any questions: mcnoor@gmail.com<br /><br />
+
+⭐ This README was generated with ❤️ by MCX ⭐ <br> using https://github.com/Mcnoor/Challenge-Module11-BC
