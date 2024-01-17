@@ -1,4 +1,4 @@
-# Express Note Taker
+# Express Note-Taker
 <p align="center">
 
   <img src="https://img.shields.io/badge/-JavaScript-yellow" />
